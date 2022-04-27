@@ -10,6 +10,4 @@
 <img src="https://img.shields.io/badge/-HTML5-EA4335?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MySQL-EA4335?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
-
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nackwon&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nackwon&show_icons=true&theme=synthwave)
