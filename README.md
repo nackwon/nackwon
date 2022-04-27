@@ -34,7 +34,11 @@
 
 <br>
 <br>
+
+<div align="center"> 
+    
+   #### :fire: Stats </div>
+<div align="center">     
     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nackwon&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nackwon&layout=compact)](https://github.com/nackwon/github-readme-stats)    
-
+</div>
