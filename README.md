@@ -1,6 +1,14 @@
-<div align="center">  Nice to meet you!! :punch:  </div>
+<div align="right">
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnackwon%2Fhit-counter&count_bg=%2364C4D7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://github.com/nackwon)
+</div>
+
+<div align="center"> 
+    
+   ### Nice to meet you!! :punch: 
+</div>
 <br>
-<br>
+
 <div align="center">   :memo: Me </div>
 <br>
 <div align="center">
